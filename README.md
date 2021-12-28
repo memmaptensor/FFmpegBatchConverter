@@ -8,4 +8,4 @@ My collection of batch scripts using ffmpeg to convert some media formats to oth
 4. Run `.bat` files according to your usage from the folders `to and from GIF`, `to audio`, `to video`
 5. Copy the files from the output folder
 
-**Note: the ffmpeg and ffprobe included with the repository is an old version, you can download newer versions from https://ffmpeg.org/ and replace the two `.exe` in your folder**
+**Note: the ffmpeg and ffprobe included with the repository are of older versions, you can download newer versions from https://ffmpeg.org/ and replace the two `.exe` in your folder**
